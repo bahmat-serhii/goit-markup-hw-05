@@ -625,7 +625,7 @@ button {
 }
 .modal-overlay.is-open {
   opacity: 1;
-  pointer-events: none;
+  pointer-events: auto;
 }
 .modal {
   position: absolute;
